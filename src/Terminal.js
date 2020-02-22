@@ -87,7 +87,7 @@ import { AutoLink } from "./Server/lib/AutoLink";
 import { DeepscanV2 } from "./Server/lib/DeepscanV2";
 import { DeepscanV1 } from "./Server/lib/DeepscanV1";
 import { fl1ght } from "./Server/lib/fl1ght";
-import { b1t_flum3 } from "./Server/lib/b1t_flum3";
+import { b1t_flum3 } from "./Server/lib/B1t_flum3";
 import { cat } from "./Server/lib/cat";
 import { free } from "./Server/lib/free";
 import { fs } from 'memfs';
