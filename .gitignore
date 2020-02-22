@@ -6,9 +6,4 @@ Netburner.txt
 /test/*.map
 /test/*.bundle.*
 /test/*.css
-
-
-# My added changes:
 .vscode/*
-src/SaveObject.js
-src/Prestige.js
